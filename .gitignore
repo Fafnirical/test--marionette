@@ -1,0 +1,6 @@
+bower_components
+node_modules
+typings
+public/*
+!public/index.html
+app/.baseDir.ts

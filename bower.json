@@ -1,0 +1,11 @@
+{
+  "name": "test--marionette",
+  "private": true,
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "jquery": "^2.2.2",
+    "requirejs": "^2.2.0",
+    "text": "requirejs/text#^2.0.14",
+    "backbone.marionette": "^3.0.0"
+  }
+}
